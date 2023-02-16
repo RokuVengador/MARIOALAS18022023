@@ -1,0 +1,15 @@
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\bin\Debug\net6.0\MARIOALAS18022023.exe
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\bin\Debug\net6.0\MARIOALAS18022023.deps.json
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\bin\Debug\net6.0\MARIOALAS18022023.runtimeconfig.json
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\bin\Debug\net6.0\MARIOALAS18022023.dll
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\bin\Debug\net6.0\MARIOALAS18022023.pdb
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.csproj.AssemblyReference.cache
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.AssemblyInfoInputs.cache
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.AssemblyInfo.cs
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.csproj.CoreCompileInputs.cache
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.dll
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\refint\MARIOALAS18022023.dll
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.pdb
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\MARIOALAS18022023.genruntimeconfig.cache
+C:\Users\medga\Documents\GitHub\MARIOALAS18022023\obj\Debug\net6.0\ref\MARIOALAS18022023.dll
